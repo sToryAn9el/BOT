@@ -1,0 +1,4 @@
+<p>Copyright © {tahun} - All rights reserved.</p>
+<div>
+    By <a href="https://axvdigital.com" target="_blank">AXVDIGITAL</a>
+</div>
